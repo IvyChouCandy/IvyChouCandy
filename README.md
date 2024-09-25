@@ -42,7 +42,7 @@
 
 <h3>🎞️ work experience</h3>
 -Teaching assistant for Programming<br>
--English translation assistant<br>
+-English translation assistant
 
 
-⭐️ From [Ivy](https://github.com/IvyChouCandy))
+⭐️ From [Ivy](https://github.com/IvyChouCandy)
