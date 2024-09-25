@@ -3,7 +3,7 @@
 
 <h3> 👩🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently study in *ASIA University Department of Bioinformatics and Medical Engineering* 
+- 🔭 &nbsp; I’m currently study in **ASIA University Department of Bioinformatics and Medical Engineering** 
 - 📖 &nbsp; Studying Computer Science, computer programming, Mathematics and Biology
 - 💻 &nbsp; a member of [Proteomics and Informatics Lab](https://ctchen.weebly.com/)
 - 🌱 &nbsp; a programming enthusiast
@@ -12,20 +12,14 @@
 - 💫 &nbsp; I believe nothing is impossible; it all depends on one's mindset
 
 <h3>🛠 Tech Stack</h3>
-&nbsp; Python | <img src="https://icons8.com/icon/13441/python.png with='50' />
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+  <p > 
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>    
+  </p>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
