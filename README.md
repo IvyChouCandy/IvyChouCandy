@@ -12,7 +12,7 @@
 - 💫 &nbsp; I believe nothing is impossible; it all depends on one's mindset
 
 <h3>🌍Foreign Language Ability</h3>
--🔵TOEIC:Blue Certificate
+-🔵TOEIC:Blue Certificate<br>
 -🟢General English Proficiency Test:Intermediate
 
 <h3>🛠 Languages</h3>
@@ -26,22 +26,22 @@
   </p>
 
 <h3>🚩 Main Project</h3>
--IQUP: Identification of quantitatively unreliable spectra with machine learning for isobaric labeling-based proteomics(Submitted)
--Enhancing Protein-Protein Interaction Recognition Accuracy in Large Language Models through Sentence Reduction and Few-Shot Learning(Submitted)
+-IQUP: Identification of quantitatively unreliable spectra with machine learning for isobaric labeling-based proteomics(Submitted)<br>
+-Enhancing Protein-Protein Interaction Recognition Accuracy in Large Language Models through Sentence Reduction and Few-Shot Learning(Submitted)<br>
 -
 
 <h3>🧭 Side Project</h3>
--Knn search結合Few-Shot learning及句子簡化以提升LLM辨識Protein-Protein Interaction
--2025 AICup標註競賽準備
--利用Rule-Based方法結合Sentence Reduction辨識Protein-Protein Interaction
--使用AutoGluon預測乳癌復發狀況
--建立簡易資料庫互動網站:DNAverse
--建立疾病資料庫
--建立疾病分類查詢系統
--使⽤over-sampleing提⾼肺癌預測準確率
+-Knn search結合Few-Shot learning及句子簡化以提升LLM辨識Protein-Protein Interaction<br>
+-2025 AICup標註競賽準備<br>
+-利用Rule-Based方法結合Sentence Reduction辨識Protein-Protein Interaction<br>
+-使用AutoGluon預測乳癌復發狀況<br>
+-建立簡易資料庫互動網站:DNAverse<br>
+-建立疾病資料庫<br>
+-建立疾病分類查詢系統<br>
+-使⽤over-sampleing提⾼肺癌預測準確率<br>
 
 <h3>🎞️ work experience</h3>
--Teaching assistant for Programming
+-Teaching assistant for Programming<br>
 -English translation assistant
 
 
